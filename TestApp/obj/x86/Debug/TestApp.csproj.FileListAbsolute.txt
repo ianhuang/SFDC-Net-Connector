@@ -1,0 +1,7 @@
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\bin\Debug\TestApp.exe
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\bin\Debug\SFDCNetConnector.dll
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\TestApp\bin\Debug\SFDCNetConnector.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\bin\Debug\SFDCNetConnector.dll.config
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\bin\Debug\SFDCNetConnector.dll
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\bin\Debug\SFDCNetConnector.pdb
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\obj\Debug\SFDCNetConnector.dll
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\obj\Debug\SFDCNetConnector.pdb
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\bin\Debug\SFDCNetConnector.dll.config
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\bin\Debug\SFDCNetConnector.dll
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\bin\Debug\SFDCNetConnector.pdb
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\obj\Debug\SFDCNetConnector.dll
+C:\Users\Ian\Dropbox\Development\SFDC Net Connector\SFDC Connector Library\obj\Debug\SFDCNetConnector.pdb
