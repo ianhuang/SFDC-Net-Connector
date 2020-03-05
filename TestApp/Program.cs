@@ -13,8 +13,7 @@ namespace SFDCNetConnector
         static void Main(string[] args)
         {
             //Create Salesforce binging with username and password
-            //sforceService = SalesforceSession.StartSession("user name", "password", "security token");
-            sforceService = SalesforceSession.StartSession("ian.huang.syd@gmail.com", "scmy_209_XX_!", "KwgCnbIa0QRHEEpPvXV6DaZb");
+            sforceService = SalesforceSession.StartSession("user name", "password", "security token");
 
             List<sObject> accounts = AccountProvider.retrieve10Accounts(sforceService);
             foreach (sObject account in accounts)
